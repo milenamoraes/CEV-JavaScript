@@ -5,14 +5,17 @@
  - Lançado em 2013, o projeto de ensinar tecnologia à distância foi ganhando forma e hoje já conta com milhares de alunos inscritos e uma grande quantidade de material gratuito.
 
 
-**Javascript** Curso de linguagem JavaScript, voltado para iniciantes e para quem quiser aprender mais sobre ECMAScript, a versão padronizada do JS. Em um curso patrocinado pelo Google, o professor Gustavo Guanabara vai ensinar o conteúdo básico em 6 módulos que vão desde o conhecimento da linguagem até o uso de funções..
+**Javascript**: Curso de linguagem JavaScript, voltado para iniciantes e para quem quiser aprender mais sobre ECMAScript, a versão padronizada do JS. Em um curso patrocinado pelo Google, o professor Gustavo Guanabara vai ensinar o conteúdo básico em 6 módulos que vão desde o conhecimento da linguagem até o uso de funções..
 
 
 <details>
 <summary> Módulo A: Conhecendo o JavaScript</summary>
 Aula 1 – O que o JavaScript é capaz de fazer?
+
 Aula 2 – Como chegamos até aqui?
+
 Aula 3 – Dando os primeiros passos
+
 Aula 4 – Criando o seu primeiro script
 </details>
 
@@ -34,6 +37,7 @@ Aula 10 – Eventos DOM
 <details>
 <summary>Módulo D: Condições em JavaScript</summary>
 Aula 11 – Condições (Parte 1)
+
 Aula 12 – Condições (Parte 2)
 Exercícios JavaScript (Parte 1)
 Exercícios JavaScript (Parte 2)
